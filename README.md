@@ -1,2 +1,0 @@
-# patika-TemelMatematik
-Sezgisel Matematik
